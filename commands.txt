@@ -1,0 +1,1 @@
+python hipcam_main.py -i ips.txt
